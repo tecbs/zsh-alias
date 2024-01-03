@@ -1,1 +1,1 @@
-alias ll = "ls -all"
+alias lll = "ls -all"
