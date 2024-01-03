@@ -9,6 +9,7 @@ alias agrep="grep --color=auto"
 alias diff="diff --color=auto"
 alias ccat="highlight --out-format=ansi"
 alias ip="ip -color=auto"
+alias update="sudo pacman -Syyu"
 
 #fix
 alias cd..='cd ..'
