@@ -1,2 +1,2 @@
 #!/bin/zsh
-alias lll = "ls -all"
+alias lll='ls -all'
