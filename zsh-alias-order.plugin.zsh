@@ -10,4 +10,10 @@ alias diff="diff --color=auto"
 alias ccat="highlight --out-format=ansi"
 alias ip="ip -color=auto"
 
-
+#fix
+alias cd..='cd ..'
+alias pdw="pwd"
+alias udpate='sudo pacman -Syyu'
+alias upate='sudo pacman -Syyu'
+alias updte='sudo pacman -Syyu'
+alias updqte='sudo pacman -Syyu'
