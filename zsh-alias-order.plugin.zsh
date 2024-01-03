@@ -1,6 +1,6 @@
 #!/bin/zsh
-alias \
-cp="cp -iv" \
-mv="mv -iv" \
-rm="rm -vI" \
-mkd="mkdir -pv" 
+
+alias cp='cp -iv'
+alias mv="mv -iv"
+alias rm="rm -vI"
+alias mkd="mkdir -pv" 
