@@ -1,2 +1,2 @@
-!#/bin/zsh
+#!/bin/zsh
 alias lll = "ls -all"
